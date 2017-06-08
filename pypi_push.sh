@@ -3,5 +3,5 @@ rm superset/assets/dist/*
 cd superset/assets/
 npm run build
 cd ../..
-python setup.py sdist upload
+python setup.py sdist register upload
 
