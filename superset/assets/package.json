@@ -1,6 +1,6 @@
 {
-  "name": "superset",
-  "version": "0.18.5-alpha.3",
+  "name": "fineart-superset",
+  "version": "0.18.5-alpha.4",
   "description": "Superset is a data exploration platform designed to be visual, intuitive, and interactive.",
   "license": "Apache-2.0",
   "directories": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/superset.git"
+    "url": "git+https://github.com/fineartdev/superset.git"
   },
   "keywords": [
     "big",

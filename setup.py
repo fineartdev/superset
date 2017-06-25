@@ -32,7 +32,7 @@ with open(os.path.join(PACKAGE_DIR, 'version_info.json'), 'w') as version_file:
 
 
 setup(
-    name='superset',
+    name='fineart-superset',
     description=(
         "A interactive data visualization platform build on SqlAlchemy "
         "and druid.io"),
@@ -79,11 +79,11 @@ setup(
         'mock',
         'nose',
     ],
-    author='Maxime Beauchemin',
-    author_email='maximebeauchemin@gmail.com',
-    url='https://github.com/airbnb/superset',
+    author='FineArt Consulting',
+    author_email='feng@fineartconsulting.cn',
+    url='https://github.com/fineartdev/superset',
     download_url=(
-        'https://github.com/airbnb/superset/tarball/' + version_string),
+        'https://github.com/fineartdev/superset/tarball/' + version_string),
     classifiers=[
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.4',
