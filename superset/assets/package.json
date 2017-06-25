@@ -1,7 +1,7 @@
 {
 <<<<<<< HEAD
   "name": "fineart-superset",
-  "version": "0.18.5-alpha.4",
+  "version": "0.18.5-stable",
 =======
   "name": "superset",
   "version": "0.18.5",
