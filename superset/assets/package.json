@@ -1,11 +1,9 @@
 {
-<<<<<<< HEAD
   "name": "fineart-superset",
   "version": "0.18.5-stable",
 =======
   "name": "superset",
   "version": "0.18.5",
->>>>>>> 3b6ce3c95fe41c5ca8d7fd7d31d62624cd751453
   "description": "Superset is a data exploration platform designed to be visual, intuitive, and interactive.",
   "license": "Apache-2.0",
   "directories": {
